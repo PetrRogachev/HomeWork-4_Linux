@@ -1,0 +1,12 @@
+   0 vi /tmp/letter.txt
+   1 cd tmp
+   2 cd /tmp/
+   3 ls -a
+   4 df -h | head -3 >> letter.txt
+   5 cat letter.txt 
+   6 ls -la
+   7 chmod 365
+   8 ls -la
+   9 chmod 365 letter.txt
+  10 ls -la
+  11 history > history.txt
